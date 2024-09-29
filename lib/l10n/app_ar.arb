@@ -1,0 +1,13 @@
+{
+    "islame" : "اسلامي ",
+    "quran" : "القران",
+    "ahadeth" : "الاحاديث",
+    "radio" : "الراديو",
+    "sebha" : "السبحة",
+    "settings" : "الاعدادات",
+    "suraName" : "اسم السورة" ,
+    "versesNumber" : "عدد الايات",
+    "hadethName" : "اسم الحديث",
+    "sebhaCounter" : "عدد التسبيحات",
+    "darkMode" : "الوضع الليلي"
+}
